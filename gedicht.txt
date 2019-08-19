@@ -1,6 +1,6 @@
 Farbpalette
 
-Rot
+Rote Farbe
 Grün
 Hellgrün
 Dunkelgrün
